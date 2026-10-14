@@ -1,9 +1,19 @@
-# E-Commerce App Structure
+# @babel/core
 
-This workspace contains a starter file structure for a modern e-commerce application built with Vite and React.
+> Babel compiler core.
 
-## Run locally
+See our website [@babel/core](https://babeljs.io/docs/babel-core) for more information or the [issues](https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20core%22+is%3Aopen) associated with this package.
 
-1. Install dependencies: npm install
-2. Start the dev server: npm run dev
-3. Build for production: npm run build
+## Install
+
+Using npm:
+
+```sh
+npm install --save-dev @babel/core
+```
+
+or using yarn:
+
+```sh
+yarn add @babel/core --dev
+```
